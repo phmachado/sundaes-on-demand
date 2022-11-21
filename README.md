@@ -1,4 +1,4 @@
-# Color Button
+# Sundaes on Demand
 
 Second project of [Testing React with Jest and React Testing Library (RTL)](https://www.udemy.com/course/react-testing-library/) Udemy course.
 
